@@ -1,5 +1,5 @@
 # Estadistica
-Divulgación de estadística aplicada con Python 
+Divulgación de estadística aplicada, machine learning y econometria con Python y R. 
 
 * NOLS (Minimos cuadrados no Lineales) - Estimaciòn no lineal con Scipy (Python)
 * MineriaB.html - Analisis econometrico del sector minero de Bolivia (R)
